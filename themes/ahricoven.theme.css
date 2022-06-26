@@ -1,0 +1,22 @@
+/**
+ * @name         Ahri Coven Animated
+ * @description  A Ahri theme based on dav1312 Simplebackground
+ * @author       zvbt
+ * @version      1.0
+ * @authorId     709704536821858304
+ */
+@import "https://dav1312.github.io/BD/SimpleBackground/main.css";
+@import "https://neodymium7.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css";
+@import "https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css";
+@import "https://zvbt.github.io/betterdiscord-stuff/css/bd-settings.css";
+@import "https://zvbt.github.io/betterdiscord-stuff/css/widescreen-settings.css";
+@import "https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css";
+@import "https://Goose-Nest.github.io/GT-RevertRebrand/src/components/wordmark.css";
+
+
+:root {
+  --background: url('https://i.imgur.com/qDo30Ct.gif');
+  --chat-transparency: 0.85;
+  --sides-transparency: 0.85;
+  --sides-blur: 5px;
+}
