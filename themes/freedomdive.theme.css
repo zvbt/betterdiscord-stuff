@@ -1,0 +1,31 @@
+/**
+ * @name         Freedom Dive
+ * @description  A Freedom Dive theme based on Reborn 1.5 by MonsterDev
+ * @author       zvbt
+ * @version      1.0
+ * @authorId     709704536821858304
+ */
+
+@import "https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css";
+@import "https://neodymium7.github.io/BetterDiscordStuff/CSS/AddServerDarkMode.css";
+@import "https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css";
+
+:root {
+  --roundness: 50px; 
+ --main-color: #007dbd; /* Main Color */     
+  --hover-color: #03679b; /* Hover Color */
+  --home-color: #eee; /* Change home icon color */
+  --home-size: 24px; /* size of the home icon */
+  --shadow: rgba(0,0,0,.4); /* change to darken lighten, or set to transparent */
+  --background-image: url(https://i.imgur.com/OJOEwkM.gif); /* change background */
+  --background-blur: 3px; 
+  --popup-background: url(https://i.imgur.com/OJOEwkM.gif);  /* Background for popups and modals */
+  --background-darkness: 0.85; 
+}
+
+.tutorialContainer-1pL9QS>.listItem-3SmSlK .wrapper-28eC3z svg {
+  -webkit-mask: url(https://i.imgur.com/RkxIznK.png);
+  -webkit-mask-size: var(--home-size);
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
