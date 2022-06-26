@@ -1,5 +1,4 @@
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/bettterInvites.css);
-@import url('https://xhylo.github.io/WinMacbuttons/winmacbuttonssc.css');
 @import url('https://Goose-Nest.github.io/GT-RevertRebrand/src/components/wordmark.css');
 
 //bd settings on top
@@ -15,14 +14,6 @@
 [aria-controls="themerepo-tab"] + .separator-2wx7h6, 
 [aria-controls="themerepo-tab"]{
   order: -1;
-}
-
-//dark invite
-.tutorialContainer-1pL9QS>.listItem-3SmSlK .wrapper-28eC3z svg {
-  -webkit-mask: url(https://i.imgur.com/RkxIznK.png);
-  -webkit-mask-size: var(--home-size);
-  -webkit-mask-repeat: no-repeat;
-  -webkit-mask-position: center;
 }
 
 //blur spoiler
